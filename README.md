@@ -7,7 +7,7 @@
 **⭐ Star us if you find this useful!**
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2610.37161"><img src="assets/badges/arxiv.svg" alt="arXiv"></a>&nbsp;
+  <a href="https://arxiv.org/pdf/2610.37161"><img src="assets/badges/arxiv.svg" alt="arXiv Paper"></a>&nbsp;
   <a href="#dataset"><img src="assets/badges/huggingface.svg" alt="Hugging Face Dataset"></a>&nbsp;
   <a href="#resources"><img src="assets/badges/hf-paper.svg" alt="Hugging Face Paper"></a>&nbsp;
   <a href="https://github.com/IQuestLab/WorkFactory"><img src="assets/badges/github.svg" alt="GitHub"></a>

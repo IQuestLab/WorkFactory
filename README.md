@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://arxiv.org/pdf/2610.37161"><img src="assets/badges/arxiv.svg" alt="arXiv Paper"></a>&nbsp;
   <a href="#dataset"><img src="assets/badges/huggingface.svg" alt="Hugging Face Dataset"></a>&nbsp;
-  <a href="#resources"><img src="assets/badges/hf-paper.svg" alt="Hugging Face Paper"></a>&nbsp;
+  <a href="https://huggingface.co/papers/2610.37161"><img src="assets/badges/hf-paper.svg" alt="Hugging Face Paper"></a>&nbsp;
   <a href="https://github.com/IQuestLab/WorkFactory"><img src="assets/badges/github.svg" alt="GitHub"></a>
 </p>
 
@@ -74,9 +74,7 @@ The full training corpus covers **112,686 tasks**, **612 occupations**, and **23
 
 <a id="models"></a>
 
-<a id="resources"></a>
-
-<!-- TODO: Replace #dataset in the header and dataset row with the Hugging Face dataset URL; replace #models in the model row with the Hugging Face model URL. Replace #resources in the header with the Hugging Face paper URL. -->
+<!-- TODO: Replace #dataset in the header and dataset row with the Hugging Face dataset URL; replace #models in the model row with the Hugging Face model URL. -->
 
 <a id="contact"></a>
 
